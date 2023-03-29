@@ -49,7 +49,7 @@ Data : Kaggle
       
 <li> DistilBERT model fine-tuned on the data <br>
      Recall: 0.94 Precision: 0.94 <br>
-     Note: Negation are also identified in the input string
+     Note: Negation are also identified in the input string <br>
 > E.g "I am not unhappy with this product." -> Sentiment: Positive 
      
 <br>
