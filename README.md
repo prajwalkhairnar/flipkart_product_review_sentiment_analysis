@@ -7,10 +7,9 @@ Data : Kaggle
       https://www.kaggle.com/datasets/niraliivaghani/flipkart-product-customer-reviews-dataset
       
       
-<ul>
-<li>This analysis consists of Exploratory Data Analysis for free text data from the Flipkart Product Reviews dataset. 
-<li>Sentiment analysis was performed using DistilBERT model from huggingface by fine-tuning it for the product reviews data. 
-<li>Topic modelling was performed using BERTopic with a spacy model for embeddings. 
+- This analysis consists of Exploratory Data Analysis for free text data from the Flipkart Product Reviews dataset. 
+- Sentiment analysis was performed using DistilBERT model from huggingface by fine-tuning it for the product reviews data. 
+- Topic modelling was performed using BERTopic with a spacy model for embeddings. 
 
 
 
@@ -20,8 +19,7 @@ Data : Kaggle
 
 ## Highlights
 
-<ul>
-<li> The counts for sentiments (Positive, Negative, Neutral) are analysed as per the price range of products. 
+- The counts for sentiments (Positive, Negative, Neutral) are analysed as per the price range of products. 
 
 <img
   src="plots_figures/sentiment counts.png"
@@ -29,7 +27,7 @@ Data : Kaggle
   title="Sentiment Counts"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
       
-<li> Wordclouds analysed for product names and summary of review features.
+- Wordclouds analysed for product names and summary of review features.
 
       
 <img
@@ -47,7 +45,7 @@ Data : Kaggle
 <br>      
 <br>
       
-<li> DistilBERT model fine-tuned on the data <br>
+- DistilBERT model fine-tuned on the data <br>
      Recall: 0.94 Precision: 0.94 <br>
 > **Note**
 > Negation are also identified in the input string <br>
@@ -55,7 +53,8 @@ Data : Kaggle
      
 <br>
 <br>      
-<li> Topic Modelling performed for product names and summary of review features. Topics visualized in a 2D space for inter-topic distance
+
+- Topic Modelling performed for product names and summary of review features. Topics visualized in a 2D space for inter-topic distance
 <br>
 <br>
 <br>
