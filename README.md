@@ -11,7 +11,7 @@ Data : Kaggle
 <li>This analysis consists of Exploratory Data Analysis for free text data from the Flipkart Product Reviews dataset. 
 <li>Sentiment analysis was performed using DistilBERT model from huggingface by fine-tuning it for the product reviews data. 
 <li>Topic modelling was performed using BERTopic with a spacy model for embeddings. 
-<\ul>
+
 
 
 ------------------------------------------------------------------------------
@@ -50,10 +50,13 @@ Data : Kaggle
 <li> DistilBERT model fine-tuned on the data <br>
      Recall: 0.94 Precision: 0.94 <br>
      Note: Negation are also identified in the input string
-     > E.g "I am not unhappy with this product." -> Sentiment: Positive 
+> E.g "I am not unhappy with this product." -> Sentiment: Positive 
      
+<br>
+<br>      
 <li> Topic Modelling performed for product names and summary of review features. Topics visualized in a 2D space for inter-topic distance
-
+<br>
+<br>
 <img
   src="plots_figures/product_name_topic_modelling.png"
   alt="Product Name Topic Modelling"
