@@ -1,6 +1,6 @@
 # Flipkart Product Reviews
 
-## Sentiment Analysis | Topic Modelling
+<h2> Sentiment Analysis | Topic Modelling <\h2>
 
 Data : Kaggle
 
@@ -18,7 +18,7 @@ Data : Kaggle
 <br>
 <br>
       
-## Highlights
+<h2> Highlights <\h2>
 
 <ul>
 <li> The counts for sentiments (Positive, Negative, Neutral) are analysed as per the price range of products. 
@@ -38,6 +38,5 @@ Data : Kaggle
      
 <li> Topic Modelling performed for product names and summary of review features. Topics visualized in a 2D space for inter-topic distance
      ![product_name_topic_modelling](https://user-images.githubusercontent.com/67052212/228441855-5fb256d5-2d40-43d6-958d-e2732d1cddb7.png)
-      
 <\ul>
 
