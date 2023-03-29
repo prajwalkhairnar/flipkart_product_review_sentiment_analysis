@@ -44,12 +44,13 @@ Data : Kaggle
   title="Summary Name Wordcloud"
   style="display: inline-block; margin: 0 auto; max-width: 50px">
       
+<br>      
+<br>
       
-      
-<li> DistilBERT model fine-tuned on the data
-     Recall: 0.94 Precision: 0.94
+<li> DistilBERT model fine-tuned on the data <br>
+     Recall: 0.94 Precision: 0.94 <br>
      Note: Negation are also identified in the input string
-     E.g "I am not unhappy with this product." -> Sentiment: Positive 
+     > E.g "I am not unhappy with this product." -> Sentiment: Positive 
      
 <li> Topic Modelling performed for product names and summary of review features. Topics visualized in a 2D space for inter-topic distance
 
