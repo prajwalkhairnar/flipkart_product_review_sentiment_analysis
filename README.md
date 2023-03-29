@@ -24,7 +24,7 @@ Data : Kaggle
 <li> The counts for sentiments (Positive, Negative, Neutral) are analysed as per the price range of products. 
 
 <img
-  src="https://user-images.githubusercontent.com/67052212/228441755-0a6fea86-f9eb-472b-89ec-d6c377834c3b.png"
+  src="plots_figures/sentiment counts.png"
   alt="Sentiment Counts"
   title="Sentiment Counts"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
