@@ -1,6 +1,6 @@
 # Flipkart Product Reviews
 
-<h2> Sentiment Analysis | Topic Modelling <\h2>
+## Sentiment Analysis | Topic Modelling 
 
 Data : Kaggle
 
@@ -17,13 +17,17 @@ Data : Kaggle
 ------------------------------------------------------------------------------
 <br>
 <br>
-      
-<h2> Highlights <\h2>
+
+## Highlights
 
 <ul>
 <li> The counts for sentiments (Positive, Negative, Neutral) are analysed as per the price range of products. 
-     ![sentiment counts](https://user-images.githubusercontent.com/67052212/228441755-0a6fea86-f9eb-472b-89ec-d6c377834c3b.png)
 
+<img
+  src="https://user-images.githubusercontent.com/67052212/228441755-0a6fea86-f9eb-472b-89ec-d6c377834c3b.png"
+  alt="Sentiment Counts"
+  title="Sentiment Counts"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
       
 <li> Wordclouds analysed for product names and summary of review features.
      ![product name wordcloud](https://user-images.githubusercontent.com/67052212/228441795-80ec2b8e-dc2d-4955-8e29-98ff66f09f14.png)
