@@ -50,11 +50,12 @@ Data : Kaggle
 <li> DistilBERT model fine-tuned on the data <br>
      Recall: 0.94 Precision: 0.94 <br>
      Note: Negation are also identified in the input string <br>
-> E.g "I am not unhappy with this product." -> Sentiment: Positive 
+            E.g "I am not unhappy with this product." -> Sentiment: Positive 
      
 <br>
 <br>      
 <li> Topic Modelling performed for product names and summary of review features. Topics visualized in a 2D space for inter-topic distance
+<br>
 <br>
 <br>
 <img
