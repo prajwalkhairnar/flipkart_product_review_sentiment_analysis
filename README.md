@@ -1,6 +1,6 @@
 # Flipkart Product Reviews
 
-## Sentiment Analysis | Topic Modelling 
+## Sentiment Analysis (DistilBERT) | Topic Modelling 
 
 Data : Kaggle
 
@@ -45,7 +45,7 @@ Data : Kaggle
 <br>      
 <br>
       
-- DistilBERT model fine-tuned on the data <br>
+- **DistilBERT** model fine-tuned on the data <br>
      Recall: 0.94 Precision: 0.94 <br>
 > **Note**
 > Negation are also identified in the input string <br>
