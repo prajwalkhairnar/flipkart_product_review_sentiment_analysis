@@ -36,13 +36,13 @@ Data : Kaggle
   src="plots_figures/product name wordcloud.png"
   alt="Product Name Wordcloud"
   title="Product Name Wordcloud"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 150px">
       
 <img
   src="plots_figures/summary wordcloud.png"
   alt="Summary Wordcloud"
   title="Summary Name Wordcloud"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 150px">
       
       
       
@@ -57,7 +57,7 @@ Data : Kaggle
   src="plots_figures/product_name_topic_modelling.png"
   alt="Product Name Topic Modelling"
   title="Product Name Topic Modelling"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 150px">
       
 <\ul>
 
