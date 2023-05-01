@@ -17,6 +17,25 @@ Data : Kaggle
 <br>
 <br>
 
+
+
+Notebook Details: 
+
+
+| Notebook  | Description |
+| ------------- | ------------- |
+| flipkart_pr_eda.ipynb  | Exploratory Data Analysis  |
+| flipkart_pr_topic_modelling  | Topic Modelling for Product Reviews and Summary  |
+| flipkart_pr_v2.ipynb  | Fine-tune DistilBERT model - local directory |
+| flipkart_pr_huggingface_push.ipynb  | Fine-tune DistilBERT model - Push to Huggingface  |
+| flipkart_pr_use_finetuned_huggingface_model.ipynb  | Use fine-tuned Huggingface model  |
+
+
+
+------------------------------------------------------------------------------
+<br>
+<br>
+
 ## Highlights
 
 - The counts for sentiments (Positive, Negative, Neutral) are analysed as per the price range of products. 
